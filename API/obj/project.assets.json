@@ -5947,11 +5947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jw2\\API\\API.csproj",
+      "projectUniqueName": "c:\\Jw2\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Jw2\\API\\API.csproj",
+      "projectPath": "c:\\Jw2\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-      "outputPath": "C:\\Jw2\\API\\obj\\",
+      "outputPath": "c:\\Jw2\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5966,8 +5966,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Jw2\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Jw2\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

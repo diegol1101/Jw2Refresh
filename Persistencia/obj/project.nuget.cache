@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RfM+gmdwQ8uSa42nnLmJ6IfozE7kkJHPR0VEhjw4q5Q6ZJjPahIyTLxmsEtPXIeD7NL8WhWI5LDEIDQ0oL5Dgw==",
+  "dgSpecHash": "HIzNiXWwwV72591ip05EBIbYcVVG+w26vHTku6udHi/b/n1QE5YuUJ3BnIw7eHIGatvsX8IteCb7SrbTnJDbWw==",
   "success": true,
-  "projectFilePath": "C:\\Jw2\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "c:\\Jw2\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ddieg\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ddieg\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

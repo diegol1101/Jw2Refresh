@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jw2\\API\\API.csproj": {}
+    "c:\\Jw2\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Jw2\\API\\API.csproj": {
+    "c:\\Jw2\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jw2\\API\\API.csproj",
+        "projectUniqueName": "c:\\Jw2\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Jw2\\API\\API.csproj",
+        "projectPath": "c:\\Jw2\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Jw2\\API\\obj\\",
+        "outputPath": "c:\\Jw2\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Jw2\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Jw2\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Jw2\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jw2\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Jw2\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Jw2\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Jw2\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Jw2\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Jw2\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -118,11 +118,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Jw2\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Jw2\\Dominio\\Dominio.csproj"
+              "c:\\Jw2\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Jw2\\Dominio\\Dominio.csproj"
               },
-              "C:\\Jw2\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Jw2\\Persistencia\\Persistencia.csproj"
+              "c:\\Jw2\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Jw2\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Jw2\\Dominio\\Dominio.csproj": {
+    "c:\\Jw2\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jw2\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Jw2\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Jw2\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Jw2\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Jw2\\Dominio\\obj\\",
+        "outputPath": "c:\\Jw2\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -223,14 +223,14 @@
         }
       }
     },
-    "C:\\Jw2\\Persistencia\\Persistencia.csproj": {
+    "c:\\Jw2\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jw2\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Jw2\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Jw2\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Jw2\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Jw2\\Persistencia\\obj\\",
+        "outputPath": "c:\\Jw2\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -245,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Jw2\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Jw2\\Dominio\\Dominio.csproj"
+              "c:\\Jw2\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Jw2\\Dominio\\Dominio.csproj"
               }
             }
           }
